@@ -1,0 +1,47 @@
+//////////////////////////////////////////
+
+  Licensed to the Apache Software Foundation (ASF) under one
+  or more contributor license agreements.  See the NOTICE file
+  distributed with this work for additional information
+  regarding copyright ownership.  The ASF licenses this file
+  to you under the Apache License, Version 2.0 (the
+  "License"); you may not use this file except in compliance
+  with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing,
+  software distributed under the License is distributed on an
+  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  KIND, either express or implied.  See the License for the
+  specific language governing permissions and limitations
+  under the License.
+
+//////////////////////////////////////////
+
+= Contribution
+
+Groovy...
+
+* To improve our user guide please follow those instructions
+* Fork the repository, https://github.com/apache/groovy, apache/groovy, repository.
+* 1-On GitHub, navigate to the
+* 2-In the top-right corner of the page, click Fork
+* Create a local clone of your fork
+* 1-On GitHub, navigate to your fork of your project repository.
+* 2-Under the repository name, click Clone or download.
+* 3-To clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click copy.
+* 4-Open Git Bash.
+* 5-Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of YOUR-USERNAME:
+* $ git clone https://github.com/YOUR-USERNAME/your_project
+* 6-Press Enter. Your local clone will be created.
+* Start Contributing
+* 1-Open a terminal/command prompt and cd into the groovy-core directory.
+* 2-Run ./gradlew asciidocAll (or just gradlew asciidocAll on Windows).
+* 3-Open the file target/asciidoc/index.html in a browser.
+* Adding and editing content
+* The source files for the Groovy guides are all based on Asciidoc or Html Web pages
+* Submitting Works
+* 1-Push the fix or own contribution to the remote repository
+* 2-Submit a pull request to the project owner
+* For more Information about the developpement of Groovy read, https://drive.google.com/file/d/15zbp6NMf9qmuWAmSovsQJAbRRZiKL0hv/view?usp=sharing
