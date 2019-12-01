@@ -104,5 +104,9 @@ include::{projectdir}/src/spec/doc/design-pattern-in-groovy.adoc[leveloffset=+2]
 
 include::{projectdir}/src/spec/doc/contributors.adoc[leveloffset=+2]
 
+include::{projectdir}/src/spec/doc/contrib.adoc[leveloffset=+2]
+
 include::{projectdir}/src/spec/doc/license.adoc[leveloffset=+2]
+
+
 
